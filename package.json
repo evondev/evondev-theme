@@ -1,11 +1,17 @@
 {
   "name": "evondev-theme",
-  "displayName": "evondev-theme",
+  "displayName": "Evondev Theme",
   "description": "Evondev Theme",
   "version": "0.0.1",
+  "publisher": "evondev",
   "engines": {
     "vscode": "^1.77.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evondev/evondev-theme"
+  },
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
