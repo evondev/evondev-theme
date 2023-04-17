@@ -1,0 +1,21 @@
+{
+  "name": "evondev-theme",
+  "displayName": "evondev-theme",
+  "description": "Evondev Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Evondev Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Evondev-Theme.json"
+      }
+    ]
+  }
+}
