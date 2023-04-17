@@ -2,7 +2,7 @@
   "name": "evondev-theme",
   "displayName": "Evondev Theme",
   "description": "Evondev Theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "evondev",
   "engines": {
     "vscode": "^1.77.0"
